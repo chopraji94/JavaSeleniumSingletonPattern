@@ -1,5 +1,3 @@
-Markdown
-
 # Java Selenium Singleton Design Pattern
 
 This repository demonstrates the implementation of the **Singleton Design Pattern** in a Selenium Automation Framework. The primary goal of this project is to manage the **WebDriver** instance efficiently, ensuring that only one browser instance is created and shared across the test execution lifecycle.
